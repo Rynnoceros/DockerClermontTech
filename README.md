@@ -116,3 +116,11 @@ apt-get install -y figlet
 figlet "hello docker"
 
 => figlet display
+
+### Liens pour faire joujou
+
+* https://training.play-with-docker.com/ops-s1-hello/
+* https://training.play-with-docker.com/beginner-linux/
+* https://training.play-with-docker.com/ops-s1-images/
+* https://training.play-with-docker.com/docker-volumes/
+* https://docs.docker.com/kitematic/userguide/
